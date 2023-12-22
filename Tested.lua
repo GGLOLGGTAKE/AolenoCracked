@@ -13,7 +13,7 @@ _G.Key = "AlexisXAloneoV2" -- You Put Your Key Here
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexisAndAloneo/Nothing/main/AloneoAndAlexis"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GGLOLGGTAKE/AolenoCracked/main/sub.lua"))();
 
 end
 
